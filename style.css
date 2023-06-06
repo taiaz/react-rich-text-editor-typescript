@@ -1,0 +1,14 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+.quillContainer {
+  margin: 10px;
+  width: 90%;
+}
+
+.ql-container {
+  min-height: 200px;
+  height: 200px;
+}
